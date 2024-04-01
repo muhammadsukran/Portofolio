@@ -11,7 +11,7 @@
   width: 100%; 
   z-index: -1;
   margin-left: -163px;
-  margin-top: -352px;
+  margin-top: -290px;
   }
 </style>
 
